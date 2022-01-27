@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kimo5ab3
+- 👋 Hi, I’m Matteo Romani or @Kimo5ab3.
 - 👀 I am interested in the world of web development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I'm looking to collaborate on web projects and more specifically to learn more and more about programming.
